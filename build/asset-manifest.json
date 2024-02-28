@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0ddc1e1.css",
+    "main.js": "/static/js/main.9fa7046b.js",
+    "static/js/787.c98bf17e.chunk.js": "/static/js/787.c98bf17e.chunk.js",
+    "static/media/img_1.png": "/static/media/img_1.f9baec3f4cffda668c1d.png",
+    "static/media/img_8.png": "/static/media/img_8.274b7c56046a31df5706.png",
+    "static/media/JetBrainsMono-Light.ttf": "/static/media/JetBrainsMono-Light.f0e2261a65c471b3a07f.ttf",
+    "static/media/Romelano_PERSONAL_USE_ONLY.otf": "/static/media/Romelano_PERSONAL_USE_ONLY.e91645fcbd452ec3a9d3.otf",
+    "static/media/FiraMono-Regular.ttf": "/static/media/FiraMono-Regular.7534a76c5a021a6aae2f.ttf",
+    "static/media/img_9.png": "/static/media/img_9.0f6a6ace5117462fd9f8.png",
+    "static/media/against regular.ttf": "/static/media/against regular.fa457e12979fa330fda4.ttf",
+    "static/media/OldNewspaperTypes.ttf": "/static/media/OldNewspaperTypes.db3851a38ae93f4cc91f.ttf",
+    "static/media/Lostar.ttf": "/static/media/Lostar.b5d796b48cccb20757de.ttf",
+    "static/media/REQUEMA.otf": "/static/media/REQUEMA.1352f4c7bfc7a9ed3634.otf",
+    "static/media/VelodromaBasic-Wide.otf": "/static/media/VelodromaBasic-Wide.61b38cdb1d06155099f4.otf",
+    "static/media/Franchise-Free-Bold.ttf": "/static/media/Franchise-Free-Bold.9ff381079c5aa5bd0664.ttf",
+    "static/media/citizen_slab.otf": "/static/media/citizen_slab.8db9018f6b0ab111ab6e.otf",
+    "index.html": "/index.html",
+    "main.e0ddc1e1.css.map": "/static/css/main.e0ddc1e1.css.map",
+    "main.9fa7046b.js.map": "/static/js/main.9fa7046b.js.map",
+    "787.c98bf17e.chunk.js.map": "/static/js/787.c98bf17e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0ddc1e1.css",
+    "static/js/main.9fa7046b.js"
+  ]
+}
