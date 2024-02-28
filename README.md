@@ -1,2 +1,5 @@
 # urbanApp
-One of my first bigger projects built with React and Firebase
+Project built with React and Firebase.
+Hosted with Firebase at: https://urban-app-92c07.web.app/
+
+
